@@ -8,7 +8,7 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/araujo_s4t/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=araujosantos20&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=e3751b&title_color=f7df1e&text_color=8bbc7a)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=araujosantos20&layout=compact&bg_color=000&border_color=30A3DC&title_color=f7df1e&text_color=FFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=e3751b&title_color=f7d71e&text_color=8bbc7a)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens que estou aprendendo no momento
 
